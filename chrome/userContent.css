@@ -1,0 +1,5 @@
+@-moz-document url-prefix("moz-extension://") {
+  html, body {
+    background: black !important;
+  }
+}
