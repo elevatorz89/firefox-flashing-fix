@@ -1,4 +1,4 @@
-@-moz-document url-prefix("moz-extension://") {
+@-moz-document url-prefix("moz-extension://EXTENSION_UUID_HERE/") {
   html, body {
     background: black !important;
   }
