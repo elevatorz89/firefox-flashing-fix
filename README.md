@@ -9,5 +9,5 @@ This page was originally made to target NightTab's flashing bug upon opening a n
 4. Open the userContent.css file in a text editor.
 5. Open `about:addons`, click on the settings gear, and click "Debug Addons".
 6. Copy and replace `EXTENSION_UUID_HERE` with the targeted extension's Internal UUID.
-7. Add an extra CSS rule if you have multiple extensions to target, or simply remove the  `EXTENSION_UUID_HERE/` from the first line of the CSS rule. Remember to remove the trailing slash as included in the code block.
+7. Add an extra CSS rule if you have multiple extensions to target, or simply remove the  `EXTENSION_UUID_HERE/` from the first line of the CSS rule to target all of them. Remember to remove the trailing slash as included in the code block.
 8. Restart firefox.
